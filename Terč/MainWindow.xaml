@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfTerce.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Terče" Height="450" Width="800">
+    <Grid>
+        <Canvas x:Name="formulář" Background="White"/>
+        <TextBlock x:Name="skóreTextBlock" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10"/>
+    </Grid>
+</Window>
